@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/robinruude/">Robinson Oliveira 🧑‍💻</a>
   </h1>
   <p align="center">
-    Sou Atualmente comecei a cursar Engenharia de Software
+    Atualmente comecei a cursar Engenharia de Software
 </div>
 
 <div align="center">
